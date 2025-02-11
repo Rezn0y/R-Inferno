@@ -1,0 +1,6 @@
+Sample Bots:
+https://google.com/RNet.php?Send=
+https://youtube.com/RNet.php?Send=
+https://kick.com/RNet.php?Send=
+https://yandex.com/RNet.php?Send=
+https://github.com/RNet.php?Send=
