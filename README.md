@@ -1,5 +1,5 @@
-# R-Inferno - Create Your Own BotNet
-
+# R-Inferno - Create Your Own BotNet 
+It is recommended to use with VDS/VPS while using the tool.
 ![Screenshot](Screenshot.png)
 
 # Installation
